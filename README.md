@@ -23,33 +23,40 @@ Para instalar el tema, sigue estos pasos:
 
    ```bash
    git clone https://github.com/Artenlaclase/theme-wordpress-01.git
-Activa el tema desde el panel de administración de WordPress, en la sección Apariencia > Temas.
 
-Personaliza tu tema desde el Personalizador o ajusta el código directamente para modificaciones avanzadas.
+2. Activa el tema desde el panel de administración de WordPress, en la sección **Apariencia > Temas**.
 
-Estructura del Proyecto
+3. Personaliza tu tema desde el **Personalizador** o ajusta el código directamente para modificaciones avanzadas.
+
+## Estructura del Proyecto
+
 El tema está organizado en los siguientes directorios y archivos clave:
 
-/assets: Contiene recursos como CSS, JavaScript e imágenes.
-/templates: Plantillas personalizadas para diferentes tipos de contenido.
-functions.php: Archivo principal de funciones del tema.
-style.css: Estilos principales del tema.
-index.php: Archivo principal de plantilla del tema.
-Uso y Personalización
-Estilos y Scripts: Puedes agregar o modificar estilos en style.css y scripts en el directorio /assets/js.
-Plantillas Personalizadas: Crea plantillas adicionales en el directorio /templates para diferentes necesidades de diseño.
-Contribuciones
+- **`/assets`**: Contiene recursos como CSS, JavaScript e imágenes.
+- **`/templates`**: Plantillas personalizadas para diferentes tipos de contenido.
+- **`functions.php`**: Archivo principal de funciones del tema.
+- **`style.css`**: Estilos principales del tema.
+- **`index.php`**: Archivo principal de plantilla del tema.
+
+## Uso y Personalización
+
+- **Estilos y Scripts**: Puedes agregar o modificar estilos en `style.css` y scripts en el directorio `/assets/js`.
+- **Plantillas Personalizadas**: Crea plantillas adicionales en el directorio `/templates` para diferentes necesidades de diseño.
+
+## Contribuciones
+
 Este proyecto está abierto a contribuciones. Si deseas colaborar:
 
-Haz un fork del repositorio.
-Crea una nueva rama para tu funcionalidad (git checkout -b nueva-funcionalidad).
-Realiza tus cambios y haz un commit (git commit -m 'Agrega nueva funcionalidad').
-Haz push a tu rama (git push origin nueva-funcionalidad).
-Abre un pull request en GitHub.
-Soporte
+1. Haz un fork del repositorio.
+2. Crea una nueva rama para tu funcionalidad (`git checkout -b nueva-funcionalidad`).
+3. Realiza tus cambios y haz un commit (`git commit -m 'Agrega nueva funcionalidad'`).
+4. Haz push a tu rama (`git push origin nueva-funcionalidad`).
+5. Abre un pull request en GitHub.
+
+## Soporte
+
 Para cualquier duda o problema con el tema, puedes abrir un issue en el repositorio o contactarme directamente.
 
-Licencia
-Este tema está disponible bajo la Licencia GPLv2 o posterior.
+## Licencia
 
-Este proyecto está en constante desarrollo. ¡Gracias por tu interés y colaboración en mejorar WebNav!
+Este tema está disponible bajo la [Licencia GPLv2](https://www.gnu.org/licenses/gpl-2.0.html) o posterior.
